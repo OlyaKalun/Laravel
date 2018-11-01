@@ -5,22 +5,22 @@
   <div class="row">
     <div class="col-sm-3">
       <div class="jumbotron">
-        <p><span class="label label-primary"Категорій 0></span></p>
+        <p><span class="badge badge-primary">Категорій 0</span></p>
       </div>
     </div>
     <div class="col-sm-3">
       <div class="jumbotron">
-        <p><span class="label label-primary"Матеріалів 0></span></p>
+        <p><span class="badge badge-primary">Матеріалів 0</span></p>
       </div>
     </div>
     <div class="col-sm-3">
       <div class="jumbotron">
-        <p><span class="label label-primary"Користувачів 0></span></p>
+        <p><span class="badge badge-primary">Користувачів 0</span></p>
       </div>
     </div>
     <div class="col-sm-3">
       <div class="jumbotron">
-        <p><span class="label label-primary"Сьогодні 0></span></p>
+        <p><span class="badge badge-primary">Сьогодні 0</span></p>
       </div>
     </div>
   </div>
